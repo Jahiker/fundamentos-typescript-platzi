@@ -1,0 +1,2 @@
+Typescrit le añade a JS una capa de analisis de codigo estatico para la deteccion temparana de errores
+
