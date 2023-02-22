@@ -14,3 +14,5 @@ Typescrit le añade a JS una capa de analisis de codigo estatico para la detecci
 -- Se recomienda que el tipo any no sea utilizado porque desactiva el analisis de tipado en esa variable
 -- Any se puede usar en proyectos nuevos que estan comenzando, se estan migrando a TS o apenas se esta adoptando esta tecnologia, ya luego se puede ir tipando de forma incremental a medida que avanza el proyecto o la migracion.
 -- Cast es transformar de un tipo a otro
+
+-- Las funciones que se ejecutan y no retornan nada son de type void

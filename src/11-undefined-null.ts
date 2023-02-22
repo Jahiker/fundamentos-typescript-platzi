@@ -39,4 +39,11 @@
   hiV2("jahiker");
   hiV2(null);
 
+  function hiV3(name: string | null): string {
+    return name ? `Hola ${name}` : `Hola nadie`;
+  }
+
+  const saludo = hiV3("jahiker");
+  console.log("🚀 ~ file: 11-undefined-null.ts:47 ~ saludo:", saludo)
+
 })();
