@@ -23,3 +23,5 @@ const data = [
 const rta = _.groupBy(data, (item) => item.role);
 
 console.log("🚀 ~ file: 17-lodash.ts:24 ~ rta:", rta)
+
+const resp = 1 + '1'
